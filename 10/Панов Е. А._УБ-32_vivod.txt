@@ -1,0 +1,4 @@
+Stroka s naibolshei summoi: [3, 10, 13, 2]
+Summa elementov: 28
+Stroka s naimenshei summoi: [9, 7, 7, 2]
+Summa elementov: 25
